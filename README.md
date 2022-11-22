@@ -1,7 +1,7 @@
 # SOBRE MIM
 
 - 👋 Ola, meu nome é @brendarafaelli
-- 👍meu email de contato é silva.brenda21@escola.pr.gov.br
+- 👍meu email de contato é [email](silva.brenda21@escola.pr.gov.br)
 - 👀 Eu estou interessadaem aprender a programar novas linguagens
 - 🌱 Estou aprendendo a programar recentimente
 
